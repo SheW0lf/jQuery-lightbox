@@ -1,0 +1,22 @@
+{
+  "name": "jquery-lightbox",
+  "version": "1.0.0",
+  "description": "A simple lightbox application written in jQuery",
+  "main": "index.js",
+  "scripts": {
+    "preview": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheW0lf/jQuery-lightbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheW0lf/jQuery-lightbox/issues"
+  },
+  "homepage": "https://github.com/SheW0lf/jQuery-lightbox#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
